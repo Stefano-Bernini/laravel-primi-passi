@@ -12,6 +12,7 @@
             <div class="row">
                 <div class="col">
                     <h1>Hello Wolrd!</h1>
+                    <h2>by {{$name}} {{$surname}}</h2>
                 </div>
             </div>
         </div>
